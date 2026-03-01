@@ -1,4 +1,4 @@
-import { useEffect, useState, version } from "react"
+import { useEffect, useState } from "react"
 import { useParams } from "react-router-dom";
 
 import { Loader2Icon } from "lucide-react";
